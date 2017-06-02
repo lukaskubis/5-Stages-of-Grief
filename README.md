@@ -11,6 +11,10 @@ Notes from my lecture on python functions for [engeto.cz](https://engeto.cz).
 
 These 5 stages are used as a narrative medium through which we showcase various implementations of abstract constructs using functions only. It was inspired by [this video](https://www.youtube.com/watch?v=o9pEzgHorH0) on how to stop writing classes. What can we accomplish if we omit class definitions altogether and use only functions?
 
+## [Slides]()
+
+**Note:** these are only complementary to spoken word, don't expect any source of wisdom of any kind. 
+
 ---
 ## 1.Denial
 We start off by denying the existence of custom types. The exercise here is to create a simple customisable logger, which works as follows:
