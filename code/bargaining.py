@@ -10,14 +10,14 @@ def inspect(func):
 
 def inspect_decorator(func):
     def print_values(*args, **kwargs):
-        # print current values
-        inspect(func)
+        # print previous values
+        # inspect(func)
 
         # do whatever the function does
         # this should update the values
         result = func(*args, **kwargs)
 
-        # print its updated values
+        # print updated values
         inspect(func)
 
         # return whatever the function returns
