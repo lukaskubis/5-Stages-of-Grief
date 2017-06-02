@@ -4,7 +4,7 @@ Notes from my lecture on python functions for [engeto.cz](http://engeto.cz).
 The 5 stages are used as a narrative medium through which we showcase various implementations of abstract constructs using functions only.
 
 ### 1.Denial
-We start off by denying the existence of custom types. The goal gere is to create a logger, which works as follows:
+We start off by denying the existence of custom types. The goal gere is to create a customisable logger, which works as follows:
 
 1.We set up our loggers for each log type
 ```python
@@ -26,7 +26,7 @@ Expected example output:
 [2017-05-30 20:56:32.687967] ERROR: oops
 ```
 Code:
-[denial.py](/code/denial.py)
+[denial.py](https://github.com/lukaskubis/5-Stages-of-Grief/blob/master/code/denial.py)
 
 ### 2.Anger
 ### 3.Bargaining
