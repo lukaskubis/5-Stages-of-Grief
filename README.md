@@ -121,4 +121,4 @@ The code will iterate over sequence of values yielded from our generator even th
 ---
 
 ## 5.Acceptance
-... will come as soon as you get used to these kinds of things.
+... will come as soon as you get used to these kinds of things. We haven§t covered nearly enough of anything mentioned but at least, this may be a decent jumpstart to experimenting with the language. 
